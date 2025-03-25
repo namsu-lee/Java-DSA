@@ -69,3 +69,14 @@
 </tr>
 
 </table>
+
+## 난이도 참고
+
+![Image](/난이도%20참고%2001.webp)
+[출처](https://www.slideshare.net/slideshow/kucc-2022-4/251739276)
+
+![Image](/난이도%20참고%2002.png)
+[출처](https://haesoo9410.tistory.com/351)
+
+<!-- 혹시 모를 진행상태바 표기 예제
+![](https://progress-bar.xyz/26/?scale=27&&width=500&color=babaca&suffix=/27) -->
