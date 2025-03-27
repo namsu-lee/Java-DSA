@@ -3,3 +3,5 @@
 *.class
 Java-DSA.iml
 /out/
+/.idea/
+.idea*
