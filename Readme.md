@@ -77,7 +77,6 @@
 <td>
 
 [배열](/04.Array/배열.md)</br>
-[Arrays](/04.Array/Arrays.md)</br>
 [ArrayList](/04.Array/ArrayList.md)
 
 </td>
