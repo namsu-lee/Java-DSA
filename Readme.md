@@ -84,6 +84,17 @@
 </tr>
 
 <tr>
+<td>05.연결 리스트</td>
+<td>
+
+[개념 및 컬렉션](/05.LinkedList/연결%20리스트.md) </br>
+[구현](/05.LinkedList/LinkedList.java)
+
+</td>
+<td></td>
+</tr>
+
+<tr>
 <td>05.해시</td>
 <td>
 
