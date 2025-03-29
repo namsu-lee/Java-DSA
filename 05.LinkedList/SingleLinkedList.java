@@ -1,9 +1,9 @@
-public class LinkedList {
+public class SingleLinkedList {
     private Node head;
     private Node tail;
     private int length;
 
-    public LinkedList(int value) {
+    public SingleLinkedList(int value) {
         Node newNode = new Node(value);
         this.head = newNode;
         this.tail = newNode;
